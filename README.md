@@ -1,6 +1,8 @@
-# Skills
+# ✍️ Handmade Skills
 
-A small collection of focused skills for coding agents, following the [Agent Skills specification](https://agentskills.io/specification).
+Handmade Skills is a small collection of coding-agent skills distilled from real shortcomings observed during everyday work. Each skill is short, focused, and contains only instructions proven useful in practice.
+
+The skills follow the [Agent Skills specification](https://agentskills.io/specification).
 
 ## Available skills
 
@@ -19,13 +21,13 @@ Requires GitHub CLI 2.90.0 or newer.
 Install every skill, then choose the target agent(s) and scope when prompted:
 
 ```sh
-gh skill install Qais-Hweidi/skills --all
+gh skill install Qais-Hweidi/handmade-skills --all
 ```
 
 Install one skill by name:
 
 ```sh
-gh skill install Qais-Hweidi/skills spec
+gh skill install Qais-Hweidi/handmade-skills spec
 ```
 
 Choose user scope to make skills available across your projects. The installer supports Codex, Claude Code, Cursor, GitHub Copilot, Gemini CLI, and many other agents.
@@ -33,7 +35,7 @@ Choose user scope to make skills available across your projects. The installer s
 You can also ask your agent to handle installation:
 
 ```text
-Help me set up agent skills from https://github.com/Qais-Hweidi/skills.
+Help me set up agent skills from https://github.com/Qais-Hweidi/handmade-skills.
 
 Check which skills the repository provides and which are already installed for the agent you are currently running as. Show me the available options and ask which skills I want to install or update.
 
