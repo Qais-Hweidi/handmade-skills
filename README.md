@@ -6,6 +6,7 @@ The skills follow the [Agent Skills specification](https://agentskills.io/specif
 
 ## Available skills
 
+- `clipboard` — Copy the result to my clipboard.
 - `code-review` — Review changes against their intent, fix concrete problems, and verify the result.
 - `explain` — Teach a concept through a throwaway interactive visual page.
 - `handoff` — Prepare a compact, copy-ready handoff for another agent.
