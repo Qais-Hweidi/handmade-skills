@@ -8,6 +8,7 @@ The skills follow the [Agent Skills specification](https://agentskills.io/specif
 
 - `clipboard` — Copy the result to my clipboard.
 - `code-review` — Review changes against their intent, fix concrete problems, and verify the result.
+- `debug` — Investigate bugs and unexpected behavior, establish the root cause, and verify a fix.
 - `explain` — Teach a concept through a throwaway interactive visual page.
 - `handoff` — Prepare a compact, copy-ready handoff for another agent.
 - `implement` — Implement a requested code change from start to finish.
